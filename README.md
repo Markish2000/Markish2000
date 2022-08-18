@@ -1,16 +1,21 @@
-### Hi there 👋
+### ¡Hola! Mi nombre es Marcos Hernan Parella.
 
-<!--
-**Markish2000/markish2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### > Sobre mí:
 
-Here are some ideas to get you started:
+Soy Junior Front-End Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Actualmente me encuentro estudiando la carrera "Desarrollador Web Full Stack" en "Coderhouse".
+
+## > Puedes encontrarme en:
+
+[![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-hern%C3%A1n-parella-92ba27234/)
+
+
+## > Habilidades:
+
+[![Html5 Follow](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+[![css3 Follow](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+[![Bootstrap Follow](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)]()
+</br>
+[![Javascript Follow](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Sass Follow](https://img.shields.io/badge/Sass-bf4080?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
