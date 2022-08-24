@@ -9,8 +9,8 @@ Actualmente me encuentro estudiando la carrera "Desarrollador Web Full Stack" en
 ## > Puedes encontrarme en:
 
 [![Linkedin_Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-hern%C3%A1n-parella-92ba27234/)
-[![Portfolio_Follow](https://img.shields.io/badge/-PORTFOLIO-green)](https://markish2000.github.io/Portfolio/)
-[![CV_Follow](https://img.shields.io/badge/-CURRICULUM%20VITAE-red)](https://drive.google.com/file/d/1TLhh1gxPM21GYZPa_uDOcTioN7KzL-74/view)
+[![Portfolio_Follow](https://img.shields.io/badge/-PORTFOLIO-green?style=for-the-badge&logo)](https://markish2000.github.io/Portfolio/)
+[![CV_Follow](https://img.shields.io/badge/-CURRICULUM%20VITAE-red?style=for-the-badge&logo)](https://drive.google.com/file/d/1TLhh1gxPM21GYZPa_uDOcTioN7KzL-74/view)
 
 
 ## > Habilidades:
