@@ -2,7 +2,7 @@
 
 ### > Sobre mí:
 
-Soy Junior Front-End Developer.
+Soy Jr. Front-End Developer.
 
 Actualmente me encuentro estudiando la carrera "Desarrollador Web Full Stack" en "Coderhouse".
 
