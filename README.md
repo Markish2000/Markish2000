@@ -2,9 +2,9 @@
 
 ### > Sobre mí:
 
-Soy Jr. Front-End Developer.
+Soy Full stack developer.
 
-Actualmente me encuentro estudiando la carrera "Desarrollo Full Stack" en "Coderhouse".
+Me encuentro estudiando la carrera de "Desarrollo Full Stack" en "Coderhouse". Actualmente me encuentro cursando el curso de back-end. Además, me encuentro estudiando en "SoyHenry" por el cual estoy realizando el Proyecto Individual.
 
 ## > Puedes encontrarme en:
 
