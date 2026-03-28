@@ -240,21 +240,17 @@ const marcos: Developer = {
 
 <div align="center">
 
-<!-- Stats cards — may require a moment to load -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=Markish2000&theme=tokyonight&hide_border=true" width="55%" />
 
 <br/><br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Markish2000&theme=tokyonight&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="55%" src="https://streak-stats.demolab.com/?user=Markish2000&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-![Markish2000's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Markish2000&theme=tokyo-night&hide_border=true)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Markish2000&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 ---
