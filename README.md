@@ -51,7 +51,6 @@ const marcos: Developer = {
 };
 ```
 
-<br clear="right"/>
 
 > 💡 *Desarrollador Front-End especializado en el stack PERN con más de 2 años de experiencia en proyectos escalables, mentoría técnica, CI/CD y arquitecturas modernas. Siempre en formación continua.*
 
@@ -241,9 +240,9 @@ const marcos: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
