@@ -240,16 +240,28 @@ const marcos: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- GitHub Stats Counters (via shields.io — always works) -->
+<img src="https://img.shields.io/github/stars/Markish2000?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1a2e&label=Total+Stars" />
+<img src="https://img.shields.io/github/followers/Markish2000?style=for-the-badge&logo=github&color=58A6FF&labelColor=1a1a2e&label=Followers" />
+<img src="https://img.shields.io/badge/Total_Commits-1708+-58A6FF?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Experience-2%2B_Years-58A6FF?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Projects-20%2B-58A6FF?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1a1a2e" />
 
 <br/><br/>
 
+<!-- GitHub Stats Card (via vercel — loads when available) -->
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<br/><br/>
+
+<!-- Streak Stats (demolab — reliable) -->
 <img width="55%" src="https://streak-stats.demolab.com/?user=Markish2000&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
+<!-- Contribution Graph (vercel — reliable) -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Markish2000&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
