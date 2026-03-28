@@ -45,7 +45,7 @@ const marcos: Developer = {
   mentoring:  true,
   codeReview: true,
   agile:      ["Scrum", "Kanban"],
-  hobbies:    ["Gaming 🎮", "Learning 📚", "LoL ⚔️"],
+  hobbies:    ["Gaming 🎮", "Learning 📚", "CrossFit 🏋️", "Cycling 🚴", "Padel 🎾", "Running 🏃"],
   goal:       "Scalable solutions that create real value 🚀",
 };
 ```
