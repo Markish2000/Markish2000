@@ -32,7 +32,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" width="38%" />
 
 ```typescript
 const marcos: Developer = {
