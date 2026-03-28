@@ -241,18 +241,18 @@ const marcos: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=Markish2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Markish2000&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Markish2000&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" width="60%" />
+<img src="https://streak-stats.demolab.com?user=Markish2000&theme=tokyonight&hide_border=true" width="60%" />
 
 <br/><br/>
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Markish2000&theme=tokyonight&no-frame=true&margin-w=8&column=7&no-bg=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Markish2000&theme=tokyonight&no-frame=true&margin-w=8&column=7" width="100%" />
 </a>
 
 </div>
